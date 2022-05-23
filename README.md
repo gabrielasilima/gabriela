@@ -1,4 +1,4 @@
-# Olá, meu nome é Gabriela 
+# Olá, meu nome é Gabriela!
 
 <div align="center">
   <a href="https://github.com/gabrielasilima">
